@@ -71,6 +71,7 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
+![image](https://github.com/shara56/NearMe/assets/113497104/4e2529b9-ac61-46a0-93e8-905a4094c7de)
 
 
 ## HTML VALIDATOR
