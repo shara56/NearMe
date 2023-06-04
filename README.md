@@ -73,9 +73,13 @@ Execute the programs and publish them.
 ## OUTPUT
 ![image](https://github.com/shara56/NearMe/assets/113497104/4e2529b9-ac61-46a0-93e8-905a4094c7de)
 
+![Screenshot 2023-05-17 110125](https://github.com/shara56/NearMe/assets/113497104/48992118-56eb-4250-98f3-e4503c643cfa)
+
 
 ## HTML VALIDATOR
-![Screenshot 2023-05-17 110125](https://github.com/shara56/NearMe/assets/113497104/48992118-56eb-4250-98f3-e4503c643cfa)
+
+![image](https://github.com/shara56/NearMe/assets/113497104/bda2366e-e17f-48cf-91a5-09ecebddb7cf)
+
 
 
 ## RESULT
