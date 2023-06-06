@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 ## AIM
-To develop a website to display details about the places around my house.
+To develop a website to display details about the places around my house
 
 ## DESIGN STEPS
 
