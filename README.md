@@ -53,20 +53,137 @@ Execute the programs and publish them.
 <area shape="rect" coords="1564,911,1566,913" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
 </map>
 
+bus_stand.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        bus stand
+    </title>
+</head>
+<body >
+<h1 align="center">
+    <font color="blue" face="cursive" size="9">
+       bus stand
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="6">
+        <OL  TYPE="1" START="1">
+            <LI> Bus stand attendants were helpful.<br></LI>     
+            <LI>Very close to Railway station.<br></LI>
+            <LI>There was nice cleaning too.<br></LI>
+            <LI> Bus for all location start form here.<br></LI>
+        </OL>
+</p>
+</body>
+</html>
 
-        </center>
-        <p align="center">
-            <font color="maroon"  face="Comic Sans MS" >
-                This Image Map shows various locations around my home.<br>
-                1.school<br>
-                2.grt jewellers<br>
-                3.bus stand<br>
-                4.restaurant<br>
-                5.college<br>
-                sClick the location and get information about it.
-            </font>
-        </p>
-    </body>
+college.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        college
+    </title>
+</head>
+<body >
+<h1 align="center">
+    <font color="blue" face="cursive" size="9">
+       college
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="6">
+        <OL  TYPE="1" START="1">
+            <LI>Good place for career.<br></LI>     
+            <LI>My college has all the required facilities like air conditioner, fans, and all which are in proper working condition.<br></LI>
+            <LI>My college's infrastructure is in good condition.<br></LI>
+            <LI>There is more importance given to attendence and theory study than practical and training.<br></LI>
+        </OL>
+</p>
+</body>
+</html>
+
+grt_jewellers.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+       grt jewellers
+    </title>
+</head>
+<body >
+<h1 align="center">
+    <font color="blue" face="cursive" size="9">
+       grt jewellers
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="6">
+        <OL  TYPE="1" START="1">
+            <LI>GRT Jewellers is one of the India's foremost jewellery store having an exquisite collection of jewellery in Gold, Diamond, Platinum and Silver created by the finest artisans of India.<br></LI>     
+            <LI>G. Rajendran established GRT which stands for G.R. Thanga Maligai in Chennai, Tamil Nadu.<br></LI>
+            <LI>Nayanthara, the brand ambassador of GRT Jewellers, promoting the jewellers gold antique jewellery collections.<br></LI>
+            <LI>It's a private unlisted company and is classified as'company limited by shares'.<br></LI>
+        </OL>
+</p>
+</body>
+</html>
+
+restaurant.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+       grt jewellers
+    </title>
+</head>
+<body >
+<h1 align="center">
+    <font color="blue" face="cursive" size="9">
+       grt jewellers
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="6">
+        <OL  TYPE="1" START="1">
+            <LI>GRT Jewellers is one of the India's foremost jewellery store having an exquisite collection of jewellery in Gold, Diamond, Platinum and Silver created by the finest artisans of India.<br></LI>     
+            <LI>G. Rajendran established GRT which stands for G.R. Thanga Maligai in Chennai, Tamil Nadu.<br></LI>
+            <LI>Nayanthara, the brand ambassador of GRT Jewellers, promoting the jewellers gold antique jewellery collections.<br></LI>
+            <LI>It's a private unlisted company and is classified as'company limited by shares'.<br></LI>
+        </OL>
+</p>
+</body>
+</html>
+
+school.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+       SCHOOL
+    </title>
+</head>
+<body >
+<h1 align="center">
+    <font color="blue" face="cursive" size="9">
+       
+         Bharathidhasanar Matriculation Higher Secondary School
+
+
+    </font>
+</h1>
+<p align="center">
+    <font color="black" face="Comic Sans MS" size="6">
+        <OL  TYPE="1" START="1">
+            <LI>School is the basic foundation of knowledge being imparted to a child.<br></LI>     
+            <LI>School is the place where we learn to read and write.<br></LI>
+            <LI>It is the most crucial place for a student, and it helps us to learn new things.<br></LI>
+            <LI>The teachers are always helpful and teach us important things in life.<br></LI>
+        </OL>
+</p>
+</body>
 </html>
 ```
 
