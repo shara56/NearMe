@@ -190,7 +190,15 @@ school.html
 ## OUTPUT
 ![image](https://github.com/shara56/NearMe/assets/113497104/4e2529b9-ac61-46a0-93e8-905a4094c7de)
 
-![Screenshot 2023-05-17 110125](https://github.com/shara56/NearMe/assets/113497104/48992118-56eb-4250-98f3-e4503c643cfa)
+![image](https://github.com/shara56/NearMe/assets/113497104/8f044b0a-270a-445f-989e-cea23a12623f)
+
+![image](https://github.com/shara56/NearMe/assets/113497104/e120c0d7-0e6b-4832-9058-1040702ca0f6)
+
+![image](https://github.com/shara56/NearMe/assets/113497104/7e5e05d2-ff46-49b5-b933-2169f2bc08a2)
+
+![image](https://github.com/shara56/NearMe/assets/113497104/61971a84-c1e5-455a-bbd6-2cf4633c4765)
+
+![image](https://github.com/shara56/NearMe/assets/113497104/25f4e2a5-b7b2-477e-9729-7898ea4f4896)
 
 
 ## HTML VALIDATOR
